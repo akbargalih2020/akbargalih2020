@@ -7,15 +7,11 @@
 
 - 🔭 I’m currently working on [TelkomSigma as Consultant](https://www.telkomsigma.co.id/)
 
-- 🌱 I’m currently learning **all about data scientist**
-
 - 📫 How to reach me **galihakbarw@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/akbargalih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akbargalih" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/galih akbar wicaksono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="galih akbar wicaksono" height="30" width="40" /></a>
-<a href="https://instagram.com/akbargalih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akbargalih" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
