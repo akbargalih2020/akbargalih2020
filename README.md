@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/akbargalih" target="blank"><img src="https://img.shields.io/twitter/follow/akbargalih?logo=twitter&style=for-the-badge" alt="akbargalih" /></a> </p>
 
-- 🔭 I’m currently working on [TelkomSigma as Consultant](https://www.telkomsigma.co.id/)
+- 🔭 I’m currently working as Freelance
 
 - 📫 How to reach me **galihakbarw@gmail.com**
 
