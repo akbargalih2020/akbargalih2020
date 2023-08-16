@@ -1,5 +1,5 @@
 <h1 align="center">Galih Akbar Wicaksono</h1>
-<h3 align="center">Consultant Data on Hadoop and IBM Platform with 4+ Years experience in the Telecommunication industry.</h3>  
+<h3 align="center">Consultant Data on Hadoop and IBM Platform with 6+ Years experience in the Telecommunication industry.</h3>  
 
 <img align="right" alt="Coding" width="500" src="https://ccnyinc.org/wp-content/uploads/2019/12/dataengineerexerciseball-1.gif">
 
